@@ -1,3 +1,3 @@
-export default () => {
+export default (...args) => {
   console.log("hello");
 }
